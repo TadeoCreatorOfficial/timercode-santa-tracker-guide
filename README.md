@@ -1,2 +1,3 @@
-# timercode-santa-tracker-guide
-All The timercode tracker guide.
+# Santa Tracker Guide
+You will learn how to make a similar
+tracker to the timercode web, learn with TimerCode Help.
