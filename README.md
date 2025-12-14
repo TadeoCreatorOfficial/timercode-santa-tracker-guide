@@ -63,6 +63,8 @@ fetch('https://TU_API_KEY_WEB.com/org/net/v1/builder/structure/')
     console.error('Error cargando ruta:', err);
   });
 ```
-Ojo Tu Web De La Api Key Debe Tener Un Mapa De Cada Ciudad data/tipo Google maps, 
-como json, si no solo mostrará un Santa moviendo en una ruta transparente si saber nada.
-`console.error` es el error de tu consola de editor de html/css/js/react/vite/git/ts/tsx 
+Note: Your API Key website must have a map of each city (data/Google Maps type, such as JSON), otherwise it will just show a Santa Claus moving along a transparent route without any context.
+
+`console.error` is the error from your HTML/CSS/JS/React/Vite/Git/TS/TSX editor console.
+
+# 2. Games & Or Funny
