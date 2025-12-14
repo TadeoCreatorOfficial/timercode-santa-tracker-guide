@@ -89,7 +89,7 @@ Games CSS:
   color: white;
   background: COLOR_NAME;
   border-radius: 10px;
-  padding: 10 20px;
+  padding: 10px 20px;
 }
 ```
 We End This Tutorial With The First TimerCode 
