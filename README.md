@@ -83,7 +83,7 @@ Make A Game With A `Youtube Games HTML CSS JS Tutorial's` We Will Work Not Anymo
 Games Scene ⚃️:
 Search A Funny Game With Some Tutorial's But The Button's functions and css.
 Games HTML:
-<button href="YOUR_GAME_FILE.html" class="GAME_BUTTON_NAME">YOUR_GAME_TITLE_BUTTON</button>
+<button href="YOUR_GAME_FILE.html/GAME_DOMAIN_WEB.com/org/net/GAME_NAME#longscreen" class="GAME_BUTTON_NAME">YOUR_GAME_TITLE_BUTTON</button>
 Games CSS:
 .GAME_BUTTON_NAME{
   color: white;
