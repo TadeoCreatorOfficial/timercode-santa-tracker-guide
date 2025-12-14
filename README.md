@@ -94,3 +94,13 @@ Games CSS:
 ```
 We End This Tutorial With The First TimerCode 
 Tutorial Seasson.
+# Tutorial Files:
+- `index.html`
+- style.css
+- `script/main.js`
+# Tutorial Credits:
+TadeoCreator - TimerCode/TimerCode Help Creator
+TimerCode Help - Help Station From `TimerCode`
+TimerCode Code™ - Code Help from TimerCode Help
+# 5. End Space.
+This is the end of the tutorial thanks for reading.
